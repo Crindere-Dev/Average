@@ -1,5 +1,5 @@
-# Dylan
-Dylan is the official discord bot for the Atwol discord server.
+# Average
+Average is the offical bot for lstanberg :)
 
 
 ### infomation
